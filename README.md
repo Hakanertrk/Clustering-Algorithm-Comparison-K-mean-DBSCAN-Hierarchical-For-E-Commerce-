@@ -1,0 +1,1 @@
+          This project aims to gain insights into customer behavior analysis on e-commerce websites and to implement clustering algorithms, which are among the effective data mining methods in this field
